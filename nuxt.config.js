@@ -1,4 +1,5 @@
 export default {
   buildModules: ["@nuxt/typescript-build"],
-  srcDir: "src"
+  srcDir: "src",
+  modules: ["bootstrap-vue/nuxt"]
 };
