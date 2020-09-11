@@ -1,0 +1,9 @@
+{
+  "name": "insta-viewer",
+  "version": "1.0.0",
+  "description": "View Instagram users and posts online",
+  "repository": "https://github.com/huseeiin/insta-viewer",
+  "author": "Hussein Fadhil",
+  "license": "MIT",
+  "private": true
+}
