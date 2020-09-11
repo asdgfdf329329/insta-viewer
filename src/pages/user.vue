@@ -18,12 +18,13 @@
 
 <script lang="ts">
 import Vue from "vue";
+import { UserDataI } from "../types";
 
 export default Vue.extend({
   async asyncData({ query, $axios }) {
     const { username } = query;
 
-    const { data } = await $axios.get(
+    const { data }: { data: UserDataI } = await $axios.get(
       `https://www.instagram.com/${username}/?__a=1`
     );
 
