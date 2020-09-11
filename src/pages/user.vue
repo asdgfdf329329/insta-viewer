@@ -1,5 +1,5 @@
 <template>
-  <b-container>
+  <b-container fluid>
     <b-card-group columns>
       <b-card
         v-for="edge in user.edge_owner_to_timeline_media.edges"
