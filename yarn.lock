@@ -1437,6 +1437,11 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.12.57.tgz#fa7bab1f5e5adc99df92d824ef75c3bbca929a22"
   integrity sha512-Dg4fab0IP6ZtdJOkwTaMaOJA3PWw7bR6cUYh+nxkYe4+ZogiLBKhaEr9sHqVkCtREVLw92g3Fl1bt8++dHKavw==
 
+"@types/numeral@^0.0.28":
+  version "0.0.28"
+  resolved "https://registry.yarnpkg.com/@types/numeral/-/numeral-0.0.28.tgz#e43928f0bda10b169b6f7ecf99e3ddf836b8ebe4"
+  integrity sha512-Sjsy10w6XFHDktJJdXzBJmoondAKW+LcGpRFH+9+zXEDj0cOH8BxJuZA9vUDSMAzU1YRJlsPKmZEEiTYDlICLw==
+
 "@types/optimize-css-assets-webpack-plugin@^5.0.1":
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/@types/optimize-css-assets-webpack-plugin/-/optimize-css-assets-webpack-plugin-5.0.1.tgz#1f437ef9ef937b393687a8819be2d2fddc03b069"
@@ -5498,6 +5503,11 @@ num2fraction@^1.2.2:
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/num2fraction/-/num2fraction-1.2.2.tgz#6f682b6a027a4e9ddfa4564cd2589d1d4e669ede"
   integrity sha1-b2gragJ6Tp3fpFZM0lidHU5mnt4=
+
+numeral@^2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/numeral/-/numeral-2.0.6.tgz#4ad080936d443c2561aed9f2197efffe25f4e506"
+  integrity sha1-StCAk21EPCVhrtnyGX7//iX05QY=
 
 nuxt@^2.14.5:
   version "2.14.5"
